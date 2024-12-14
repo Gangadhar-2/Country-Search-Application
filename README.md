@@ -21,7 +21,6 @@ The application fetches matching results and displays detailed information about
 If no match is found, an appropriate "No Results Found" message is shown.
 
 Technologies Used
-
 HTML: For the structure and layout of the application.
 
 CSS: To style the application and ensure a visually appealing design.
